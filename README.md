@@ -1,7 +1,7 @@
 # Echarts-Work
 Here are some charts I created with Echarts
 
-C1 Customer Value Map
-C2 Drilldown Non Performing Rate
-C3 Customer Value by City
-C4 Credit Card Sales Report
+It includes Customer Value Map
+Drilldown Non Performing Rate
+Customer Value by City
+Credit Card Sales Report
